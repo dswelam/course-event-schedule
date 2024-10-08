@@ -1,7 +1,7 @@
 ### **WolfScheduler - Course and Activity Conflict Management System**
 ---
 
-**WolfScheduler** is a Java-based scheduling tool designed for students to efficiently plan their semester courses while managing conflicts with extracurricular events and activities. Built with **Java OOP** principles and a **Swing-based GUI**, it offers a user-friendly interface for creating optimal course schedules. Key features include:
+**WolfScheduler** is a Java-based scheduling tool designed for students to efficiently plan their semester courses while managing conflicts with extracurricular events and activities. Built with **Java OOP** principles and a **Swing-based GUI**, it offers a user-friendly interface for creating optimal course schedules. Key features include: 
 
 - **Course Scheduling**: Easily input and compare different course schedules for upcoming semesters.
 - **Conflict Detection**: Automatically detect and resolve conflicts between courses and other scheduled events (like activities or meetings).
